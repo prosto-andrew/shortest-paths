@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/shortest-paths.dir/main.cpp.o CMakeFiles/shortest-paths.dir/dijkstra/dijkstra.cpp.o CMakeFiles/shortest-paths.dir/dijkstra/vertex.cpp.o CMakeFiles/shortest-paths.dir/dijkstra/edge.cpp.o  -o shortest-paths -pthread 

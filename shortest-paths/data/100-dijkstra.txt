@@ -1,0 +1,319 @@
+vertexes
+0 Ryiotistr
+1 Zwkgu
+2 Oucryhfa
+3 Utygnryn
+4 Zghfazg
+5 Erlrhynjpo
+6 Tonzingxee
+7 Nttnavogal
+8 Zehlssd
+9 Ixwbzgqf
+10 Gltdeoqek
+11 Fmsmb
+12 Xmro
+13 Rbrxeq
+14 Gvmuihxn
+15 Vthugtn
+16 Tmqjdg
+17 Akrdohj
+18 Nxhn
+19 Gccwvj
+20 Qffzztpkyw
+21 Lgeiwot
+22 Ktth
+23 Zjdwhpoluw
+24 Krzg
+25 Qtudxe
+26 Aymg
+27 Tnshzyfg
+28 Nrhsb
+29 Cakbydwbb
+30 Aoapwvxm
+31 Olokrb
+32 Gial
+33 Mnzln
+34 Crfluw
+35 Osjje
+36 Zpnzio
+37 Hyhdntrmge
+38 Qvwcss
+39 Skcp
+40 Regrg
+41 Pnhgxnvqe
+42 Jkznivrap
+43 Kcmx
+44 Tbbij
+45 Qzaywnv
+46 Oekfd
+47 Zbqpqax
+48 Sulgyn
+49 Ofgghgewbs
+50 Rexldmmwc
+51 Czxlwituxj
+52 Bqkmwqlal
+53 Cpzs
+54 Verqjpr
+55 Gnovh
+56 Oltxvhv
+57 Nvyx
+58 Dyvlm
+59 Acjrwpwjf
+60 Rvyeqvba
+61 Rumnrpdqlq
+62 Esjylfnhq
+63 Ulqzp
+64 Isimhd
+65 Ausb
+66 Mrtslcqy
+67 Jibb
+68 Jticcfxkt
+69 Gwckofy
+70 Trnjvfhem
+71 Pnavhlxlq
+72 Wmcliexwl
+73 Xhrgqo
+74 Lvzp
+75 Dqyvbxgtu
+76 Ewrpdqn
+77 Oeygmq
+78 Vqqygt
+79 Ltgbq
+80 Pktejmt
+81 Mhcrnaa
+82 Avzhnyp
+83 Ipbtst
+84 Igdtprmdt
+85 Tnjin
+86 Jkiiziaht
+87 Ppidxxjd
+88 Sugdq
+89 Cflruus
+90 Eadpami
+91 Szcbzbn
+92 Cnyzrqb
+93 Covri
+94 Nppcesqo
+95 Komqnnd
+96 Rsphjillfz
+97 Gkvyzlbd
+98 Frpg
+99 Hyusdlavdj
+edges
+0 6 84
+0 7 16
+0 4 15
+0 10 1
+1 10 85
+1 2 17
+1 10 2
+2 4 86
+2 1 18
+2 2 3
+3 4 87
+3 1 19
+3 5 4
+4 3 88
+4 6 20
+4 1 5
+5 2 89
+5 10 21
+5 5 6
+6 7 90
+6 4 22
+6 4 7
+7 7 91
+7 9 23
+7 7 8
+8 3 92
+8 5 24
+8 6 9
+9 4 93
+9 2 25
+9 10 10
+10 2 94
+10 10 26
+10 5 11
+11 3 95
+11 1 27
+11 8 12
+12 4 96
+12 5 28
+12 8 13
+13 5 97
+13 10 29
+13 9 14
+14 1 98
+14 2 30
+14 6 15
+15 1 99
+15 3 31
+16 5 32
+16 8 31
+16 2 17
+17 1 33
+17 1 18
+18 8 34
+18 9 19
+19 7 35
+19 2 20
+20 6 36
+20 4 21
+21 8 37
+21 9 22
+22 3 38
+22 9 23
+23 8 39
+23 9 24
+24 3 40
+24 9 25
+25 7 41
+25 6 26
+26 5 42
+26 4 27
+27 2 43
+27 4 28
+28 4 44
+28 4 29
+29 7 45
+29 9 30
+30 5 46
+30 1 31
+31 6 47
+32 2 48
+32 2 47
+32 6 33
+33 4 49
+33 1 34
+34 6 50
+34 3 35
+35 3 51
+35 3 36
+36 6 52
+36 10 37
+37 1 53
+37 1 38
+38 10 54
+38 1 39
+39 9 55
+39 2 40
+40 1 56
+40 7 41
+41 9 57
+41 7 42
+42 1 58
+42 10 43
+43 10 59
+43 6 44
+44 3 60
+44 8 45
+45 5 61
+45 9 46
+46 8 62
+46 2 47
+47 2 63
+48 2 64
+48 7 63
+48 8 49
+49 4 65
+49 4 50
+50 10 66
+50 6 51
+51 7 67
+51 7 52
+52 7 68
+52 9 53
+53 7 69
+53 6 54
+54 1 70
+54 8 55
+55 9 71
+55 1 56
+56 4 72
+56 7 57
+57 7 73
+57 6 58
+58 8 74
+58 8 59
+59 2 75
+59 1 60
+60 7 76
+60 8 61
+61 1 77
+61 7 62
+62 9 78
+62 3 63
+63 10 79
+64 5 80
+64 2 79
+64 3 65
+65 10 81
+65 1 66
+66 1 82
+66 6 67
+67 7 83
+67 7 68
+68 7 84
+68 6 69
+69 5 85
+69 7 70
+70 5 86
+70 3 71
+71 10 87
+71 8 72
+72 2 88
+72 8 73
+73 6 89
+73 9 74
+74 6 90
+74 9 75
+75 1 91
+75 4 76
+76 6 92
+76 2 77
+77 10 93
+77 4 78
+78 6 94
+78 9 79
+79 10 95
+80 7 96
+80 2 95
+80 9 81
+81 9 97
+81 2 82
+82 7 98
+82 7 83
+83 10 99
+83 3 84
+84 4 10
+84 4 85
+85 1 13
+85 8 86
+86 9 16
+86 10 87
+87 8 17
+87 2 88
+88 8 18
+88 3 89
+89 10 36
+89 5 90
+90 1 75
+90 3 91
+91 8 47
+91 8 92
+92 4 84
+92 10 93
+93 1 96
+93 1 94
+94 8 38
+94 2 95
+95 9 25
+96 1 85
+96 10 48
+96 7 97
+97 2 52
+97 8 98
+98 5 26
+98 4 99
+99 2 11
+99 9 74

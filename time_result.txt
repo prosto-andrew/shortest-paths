@@ -1,0 +1,65 @@
+5 vertexes are done
+
+one
+Needed 0 ms to finish.
+Current size is 3579904	 Peak size is 1417474048
+
+multi
+Needed 0 ms to finish.
+Current size is 3751936	 Peak size is 1416519680
+================================================
+
+100 vertexes are done 	Time is 376
+
+one
+Needed 781 ms to finish.
+Current size is 3969024	 Peak size is 1417863168
+
+multi
+Needed 376 ms to finish.
+Current size is 8220672	 Peak size is 1417924608
+================================================
+
+152 vertexes are done 	Time is 1316
+
+one
+Needed 2521 ms to finish.
+Current size is 4247552	 Peak size is 1429630976
+
+multi
+Needed 1316 ms to finish.
+Current size is 15183872 Peak size is 1429516288
+================================================
+
+200 vertexes are done 	Time is 2883
+
+one
+Needed 5815 ms to finish.
+Current size is 4485120	 Peak size is 1432731648
+
+multi
+Needed 2883 ms to finish.
+Current size is 25092096  Peak size is 1432547328
+================================================
+
+300 vertexes are done 	Time is 9902
+
+one
+Needed 18599 ms to finish.
+Current size is 4784128	 Peak size is 1435545600
+
+multi
+Needed 9902 ms to finish.
+Current size is 40775680  Peak size is 1435607040
+================================================
+
+800 vertexes are done 	Time is 178560
+
+one
+Needed 337466 ms to finish.
+Current size is 6066176	 Peak size is 1435598848
+
+multi
+Needed 178560 ms to finish.
+Current size is 81276928  Peak size is 1453887488
+
